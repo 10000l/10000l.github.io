@@ -1,5 +1,6 @@
+# Algolia-Crawler-Verif: XXXX
 
-User-agent:*
-Disallow:
+User-Agent: *
+Allow: /
 
 Sitemap: https://10000l.github.io/sitemap.xml
